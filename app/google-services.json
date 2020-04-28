@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "680580376198",
+    "firebase_url": "https://mahartomarathitest-dd613.firebaseio.com",
+    "project_id": "mahartomarathitest-dd613",
+    "storage_bucket": "mahartomarathitest-dd613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680580376198:android:fe7119a90cedeb0a",
+        "android_client_info": {
+          "package_name": "com.sumit.mahartomarathitest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680580376198-av4techvk44o0fdum0rl8kd0l29rhpeg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sumit.mahartomarathitest",
+            "certificate_hash": "edf2cc1d9b6bc3311dd4995d77f0fad87847cb74"
+          }
+        },
+        {
+          "client_id": "680580376198-pdt0ioqfpot7mk6kqu2bc31u2pdki27t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB7HwuWI-H8gB984Rv7f1LwJXkwuwF0yY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680580376198-pdt0ioqfpot7mk6kqu2bc31u2pdki27t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

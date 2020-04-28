@@ -1,0 +1,1308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions_db>
+    <question id="1">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. पुढे जा</option1>
+        <option2>२. थांबा</option2>
+        <option3>३. वेग मर्यादा समाप्त</option3>
+        <answer>२. थांबा</answer>
+        <image>1.png</image>
+    </question>
+    <question id="2">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. ओव्हरटेक करण्यास परवानगी</option1>
+        <option2>२. थांबा</option2>
+        <option3>३. मार्ग द्या</option3>
+        <answer>३. मार्ग द्या</answer>
+        <image>2.png</image>
+    </question>
+    <question id="3">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. प्रवेश बंद</option1>
+        <option2>२. थांबा</option2>
+        <option3>३. एकमार्गी वाहतूक</option3>
+        <answer>१. प्रवेश बंद</answer>
+        <image>3.png</image>
+    </question>
+    <question id="4">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. प्रवेश बंद</option1>
+        <option2>२. एकमार्गी वाहतूक</option2>
+        <option3>३. पुढे धोका आहे</option3>
+        <answer>२. एकमार्गी वाहतूक</answer>
+        <image>4.png</image>
+    </question>
+    <question id="5">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. सर्व वाहनांना मनाई</option1>
+        <option2>२. ओव्हरटेक करण्यास मनाई</option2>
+        <option3>३. एक मार्गी वाहतूक</option3>
+        <answer>३. एक मार्गी वाहतूक</answer>
+        <image>5.png</image>
+    </question>
+    <question id="6">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. दुमार्गी वहातुकिस मनाई</option1>
+        <option2>२. एकमार्गी वाहतूक</option2>
+        <option3>३. प्रवेश बंद</option3>
+        <answer>१. दुमार्गी वाहतुकीस मनाई</answer>
+        <image>6.png</image>
+    </question>
+    <question id="7">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. एक मार्गी वाहातूक</option1>
+        <option2>२. सर्व वाहनांना मनाई</option2>
+        <option3>३. कार, मोटारसायकल मनाई</option3>
+        <answer>२. सर्व वाहनांना मनाई</answer>
+        <image>7.png</image>
+    </question>
+    <question id="8">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. प्रवेश बंद</option1>
+        <option2>२. वाहने उभी करू नयेत</option2>
+        <option3>३. ट्रकला मनाई</option3>
+        <answer>३. ट्रकला मनाई</answer>
+        <image>8.png</image>
+    </question>
+    <question id="9">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. बैलगाड़ी, हातगाड़ी यांना मनाई</option1>
+        <option2>२. पादचारी सडकपार मनाई</option2>
+        <option3>३. प्रवेश बंद</option3>
+        <answer>१. बैलगाड़ी, हातगाड़ी यांना मनाई</answer>
+        <image>9.png</image>
+    </question>
+    <question id="10">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. अन्य वाहनास मार्ग द्या</option1>
+        <option2>२. बैलगाडीस मनाई</option2>
+        <option3>३. सायकलीस मनाई</option3>
+        <answer>३. सायकलीस मनाई</answer>
+        <image>10.png</image>
+    </question>
+    <question id="11">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. धावू नका</option1>
+        <option2>२. पुढे शाळा आहे</option2>
+        <option3>३. पादचारी सडकपार मनाई</option3>
+        <answer>३. पादचारी सडकपार मनाई</answer>
+        <image>11.png</image>
+    </question>
+    <question id="12">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. डावीकडे वळन्यास मनाई</option1>
+        <option2>२. उजवीकडे वळण्यास मनाई</option2>
+        <option3>३. प्रवेश बंद</option3>
+        <answer>२. उजवीकडे वळण्यास मनाई</answer>
+        <image>12.png</image>
+    </question>
+    <question id="13">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. उजवीकडे वळन्यास मनाई</option1>
+        <option2>२. डावीकडे वळण्यास मनाई</option2>
+        <option3>३. वळण्यास मनाई</option3>
+        <answer>३. डावीकडे वळण्यास मनाई</answer>
+        <image>13.png</image>
+    </question>
+    <question id="14">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. यु वळन घेण्यास मनाई</option1>
+        <option2>२. डावीकडे वळण्यास मनाई</option2>
+        <option3>३. उजवीकडे वळण्यास मनाई</option3>
+        <answer>१. यु वळन घेण्यास मनाई</answer>
+        <image>14.png</image>
+    </question>
+    <question id="15">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. प्रवेश बंद</option1>
+        <option2>२. डावीकडे वळण्यास मनाई</option2>
+        <option3>३. ओव्हरटेक करण्यास मनाई</option3>
+        <answer>३. ओव्हरटेक करण्यास मनाई</answer>
+        <image>15.png</image>
+    </question>
+    <question id="16">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. सक्तीने हॉर्न वाजवा</option1>
+        <option2>२. हॉर्न वाजविण्यास मनाई</option2>
+        <option3>३. सार्वजनिक दूरध्वनी</option3>
+        <answer>२. हॉर्न वाजविण्यास मनाई</answer>
+        <image>16.png</image>
+    </question>
+    <question id="17">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. पाकिंग मर्यादा</option1>
+        <option2>२. वेग मर्यादा</option2>
+        <option3>३. लांबी मर्यादा</option3>
+        <answer>२. वेग मर्यादा</answer>
+        <image>17.png</image>
+    </question>
+    <question id="18">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. रुंदी मर्यादा</option1>
+        <option2>२. वेग मर्यादा</option2>
+        <option3>३. पार्किंग मर्यादा</option3>
+        <answer>१. रुंदी मर्यादा</answer>
+        <image>18.png</image>
+    </question>
+    <question id="19">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. वेग मर्यादा</option1>
+        <option2>२. उंची मर्यादा</option2>
+        <option3>३. रुंदी मर्यादा</option3>
+        <answer>२. उंची मर्यादा</answer>
+        <image>19.png</image>
+    </question>
+    <question id="20">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. भार मर्यादा</option1>
+        <option2>२. अक्षीय भार मर्यादा</option2>
+        <option3>३. केवळ Taxi स्टयांड</option3>
+        <answer>२. अक्षीय भार मर्यादा</answer>
+        <image>20.png</image>
+    </question>
+    <question id="21">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. वाहने उभी करू नयेत</option1>
+        <option2>२. वाहने थांबवू नये</option2>
+        <option3>३. प्रतिबंध समाप्त</option3>
+        <answer>३. प्रतिबंध समाप्त</answer>
+        <image>21.png</image>
+    </question>
+    <question id="22">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. दोन्ही बाजूने वाहतुक</option1>
+        <option2>२. लांबी मर्यादा</option2>
+        <option3>३. रुंदी मर्यादा</option3>
+        <answer>२. लांबी मर्यादा</answer>
+        <image>22.png</image>
+    </question>
+    <question id="23">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. प्रतिबन्ध समाप्त</option1>
+        <option2>२. वाहने पार्किंग करू नयेत</option2>
+        <option3>३. वाहने थांबवू नयेत</option3>
+        <answer>२. वाहने पार्किंग करू नयेत</answer>
+        <image>23.png</image>
+    </question>
+    <question id="24">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. प्रवेश बंद</option1>
+        <option2>२. वाहने पार्किंग करू नयेत</option2>
+        <option3>३. वाहने थांबवू नयेत</option3>
+        <answer>३. वाहने थांबवू नयेत</answer>
+        <image>24.png</image>
+    </question>
+    <question id="25">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. हॉर्न वजविन्यास मनाई</option1>
+        <option2>२. सक्तीने होर्न वाजवा</option2>
+        <option3>३. वाहने थांबू नयेत</option3>
+        <answer>२. सक्तीने होर्न वाजवा</answer>
+        <image>25.png</image>
+    </question>
+    <question id="26">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. सक्तीने केवळ पुढे जाणे</option1>
+        <option2>२. सक्तीने डावीकडे वळणे</option2>
+        <option3>३. सक्तीने उजवीकडे वळणे</option3>
+        <answer>३. मार्ग द्या</answer>
+        <image>26.png</image>
+    </question>
+    <question id="27">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. सक्तीने केवळ पुढे जाणे</option1>
+        <option2>२. सक्तीने उजवीकडे वळने</option2>
+        <option3>३. सक्तीने डावीकडे वळने</option3>
+        <answer>१. सक्तीने केवळ पुढे जाणे</answer>
+        <image>27.png</image>
+    </question>
+    <question id="28">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. सक्तीने डावीकडे वळने</option1>
+        <option2>२. सक्तीने उजवीकडे वळने</option2>
+        <option3>३. सक्तीने डावीकडे वळन्यास मनाई</option3>
+        <answer>२. सक्तीने उजवीकडे वळने</answer>
+        <image>28.png</image>
+    </question>
+    <question id="29">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. सक्तीने डावीकडे वळने</option1>
+        <option2>२. सक्तीने केवळ पुढे जाणे</option2>
+        <option3>३. सक्तीने पुधेजाने/डावीकडे वळने</option3>
+        <answer>३. सक्तीने पुधेजाने/डावीकडे वळने</answer>
+        <image>29.png</image>
+    </question>
+    <question id="30">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. सक्तीने उजवीकडे वळने</option1>
+        <option2>२. सक्तीने डावीकडे वळने</option2>
+        <option3>३. सक्तीने पुधेजाने/उजवीकडे वळने</option3>
+        <answer>३. सक्तीने पुधेजाने/उजवीकडे वळने</answer>
+        <image>30.png</image>
+    </question>
+    <question id="31">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. हाथगाड़ीस मनाई</option1>
+        <option2>२. बैलगाड़ीस मनाई</option2>
+        <option3>३. टंग्यान्ना मनाई</option3>
+        <answer>२. बैलगाड़ीस मनाई</answer>
+        <image>31.png</image>
+    </question>
+    <question id="32">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. टंग्याना मनाई</option1>
+        <option2>२. बैलगाड़ीस मनाई</option2>
+        <option3>३. हाथगाड़ीस मनाई</option3>
+        <answer>१. टंग्याना मनाई</answer>
+        <image>32.png</image>
+    </question>
+    <question id="33">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. बैलगाड़ीस मनाई</option1>
+        <option2>२. टंग्याना मनाई</option2>
+        <option3>३. हाथगाड़ीस मनाई</option3>
+        <answer>३. हाथगाड़ीस मनाई</answer>
+        <image>33.png</image>
+    </question>
+    <question id="34">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. पाच टंग्यानसाथी स्टैंड</option1>
+        <option2>२. पाच ट्रेलर्स ला स्टैंड</option2>
+        <option3>३. भार मर्यादा</option3>
+        <answer>३. भार मर्यादा</answer>
+        <image>34.png</image>
+    </question>
+    <question id="35">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. सक्तिचा बस थम्बा</option1>
+        <option2>२. केवळ बस गड्यांना परवानगी</option2>
+        <option3>३. एक मार्गी वाहतुक</option3>
+        <answer>१. सक्तिचा बस थम्बा</answer>
+        <image>35.png</image>
+    </question>
+    <question id="36">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. डावीकडे पहा</option1>
+        <option2>२. सक्तीने डाव्या बाजुने जा</option2>
+        <option3>३. डावीकडे वळा</option3>
+        <answer>२. सक्तीने डाव्या बाजुने जा</answer>
+        <image>36.png</image>
+    </question>
+    <question id="37">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. सायाकलीस मनाई</option1>
+        <option2>२. सक्तीचा सायकल मार्ग</option2>
+        <option3>३. सायकल पार्किग</option3>
+        <answer>२. सक्तीचा सायकल मार्ग</answer>
+        <image>37.png</image>
+    </question>
+    <question id="38">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. उजवीकडे वाळा</option1>
+        <option2>२. उजव्या बाजूस वळन आहे</option2>
+        <option3>३. उजव्या बाजूस पार्किंग</option3>
+        <answer>२. उजव्या बाजूस वळन आहे</answer>
+        <image>38.png</image>
+    </question>
+    <question id="39">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. डाव्या बाजूस पार्किंग</option1>
+        <option2>२. डावीकडे वळा</option2>
+        <option3>३. डाव्य बाजूस वळण</option3>
+        <answer>३. डाव्य बाजूस वळण</answer>
+        <image>39.png</image>
+    </question>
+    <question id="40">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. उजवीकडे हेअरपिन वळण</option1>
+        <option2>२. डावीकडे हेअरपिन वळण</option2>
+        <option3>३. उजवीकडे वळा</option3>
+        <answer>१. उजवीकडे हेअरपिन वळण</answer>
+        <image>40.png</image>
+    </question>
+    <question id="41">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. डावीकडे हेअरपिन वळण</option1>
+        <option2>२. उजवीकडे हेअरपिन वळण</option2>
+        <option3>३. उजवीकडे वळा</option3>
+        <answer>१. डावीकडे हेअरपिन वळण</answer>
+        <image>41.png</image>
+    </question>
+    <question id="42">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. उजवीकडे हेअरपिन वळण</option1>
+        <option2>२. डावीकडे हेअरपिन वळण</option2>
+        <option3>३. उजवे उलटे वळण</option3>
+        <answer>३. उजवे उलटे वळण</answer>
+        <image>42.png</image>
+    </question>
+    <question id="43">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. डावीकडे हेअरपिन वळण</option1>
+        <option2>२. डावे उलटे वळण</option2>
+        <option3>३. डावीकडे वळा</option3>
+        <answer>२. डावे उलटे वळण</answer>
+        <image>43.png</image>
+    </question>
+    <question id="44">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. केवळ मोटार करला प्रवेश</option1>
+        <option2>२. उभे चढण</option2>
+        <option3>३. उभे उतरण</option3>
+        <answer>२. उभे चढण</answer>
+        <image>44.png</image>
+    </question>
+    <question id="45">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. बस गाड्यांना प्रवेश बंद</option1>
+        <option2>२. उभे उतरण</option2>
+        <option3>३. उबे चढण</option3>
+        <answer>२. उभे उतरण</answer>
+        <image>45.png</image>
+    </question>
+    <question id="46">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. वाहनांना बंदी</option1>
+        <option2>२. अरुंद रस्ता पुढे</option2>
+        <option3>३. अरुंद पूल</option3>
+        <answer>२. अरुंद रस्ता पुढे</answer>
+        <image>46.png</image>
+    </question>
+    <question id="47">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. अरुंद पूल पुढे</option1>
+        <option2>२. अरुंद रस्ता पुढे</option2>
+        <option3>३. रुंद रस्ता पुढे</option3>
+        <answer>३. रुंद रस्ता पुढे</answer>
+        <image>47.png</image>
+    </question>
+    <question id="48">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. अरुंद रस्ता पुढे</option1>
+        <option2>२. अरुंद पूल पुढे</option2>
+        <option3>३. रुंद रस्ता पुढे</option3>
+        <answer>२. अरुंद पूल पुढे</answer>
+        <image>48.png</image>
+    </question>
+    <question id="49">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. निसरडा रस्ता</option1>
+        <option2>२. केवळ मोटार कर ला प्रवेश</option2>
+        <option3>३. वाहने उभी करू नयेत</option3>
+        <answer>१. निसरडा रस्ता</answer>
+        <image>49.png</image>
+    </question>
+    <question id="50">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. सुटी वाळू, रेती</option1>
+        <option2>२. केवळ मोटार कर ला प्रवेश</option2>
+        <option3>३. निसरडा रस्ता</option3>
+        <answer>१. सुटी वाळू, रेती</answer>
+        <image>50.png</image>
+    </question>
+    <question id="51">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. सायकल क्रोस्सिंग</option1>
+        <option2>२. सक्तीचा सायकल मार्ग</option2>
+        <option3>३. सायाकालीस मनाई</option3>
+        <answer>१. सायकल क्रोस्सिंग</answer>
+        <image>51.png</image>
+    </question>
+    <question id="52">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. पुढे शाळा आहे</option1>
+        <option2>२. पादचारी सडक पार</option2>
+        <option3>३. पादचारी सडक पार मनाई</option3>
+        <answer>२. पादचारी सडक पार</answer>
+        <image>52.png</image>
+    </question>
+    <question id="53">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. पादचारी सडक पार</option1>
+        <option2>२. पुढे शाळा आहे</option2>
+        <option3>३. पादचारी सडक पार मनाई</option3>
+        <answer>२. पुढे शाळा आहे</answer>
+        <image>53.png</image>
+    </question>
+    <question id="54">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. कर्मचारी कामावर आहेत</option1>
+        <option2>२. पादचारी सडक पार</option2>
+        <option3>३. पुढे शाळा आहे</option3>
+        <answer>१. कर्मचारी कामावर आहेत</answer>
+        <image>54.png</image>
+    </question>
+    <question id="55">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. गुरे</option1>
+        <option2>२. गुरांना मनाई</option2>
+        <option3>३. वाहनांना मनाई</option3>
+        <answer>१. गुरे</answer>
+        <image>55.png</image>
+    </question>
+    <question id="56">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. कोसाडणारे खडक</option1>
+        <option2>२. साध्यास्तानी खिंडार आहेत</option2>
+        <option3>३. खडबडीत रस्ता</option3>
+        <answer>१. कोसाडणारे खडक</answer>
+        <image>56.png</image>
+    </question>
+    <question id="57">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. मासेमारी क्षेत्र</option1>
+        <option2>२. तर</option2>
+        <option3>३. प्रवेश बंद</option3>
+        <answer>२. तर</answer>
+        <image>57.png</image>
+    </question>
+    <question id="58">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. पुढे चांगला रस्ता आहे</option1>
+        <option2>२. मध्यस्तानी खिंडर आहे</option2>
+        <option3>३. प्रवेश बंद</option3>
+        <answer>२. मध्यस्तानी खिंडर आहे</answer>
+        <image>58.png</image>
+    </question>
+    <question id="59">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. प्रवेश बंद</option1>
+        <option2>२. वहाने थांबवू नयेत</option2>
+        <option3>३. कटरस्ता</option3>
+        <answer>३. कटरस्ता</answer>
+        <image>59.png</image>
+    </question>
+    <question id="60">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. उजवीकडे साईड रस्ता</option1>
+        <option2>२. डावीकडे साईड रस्ता</option2>
+        <option3>३. पुढे प्रमुख मार्ग</option3>
+        <answer>२. डावीकडे साईड रस्ता</answer>
+        <image>60.png</image>
+    </question>
+    <question id="61">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. पुढे प्रमुख मार्ग</option1>
+        <option2>२. डावीकडे साईड रस्ता</option2>
+        <option3>३. उजवीकडे साईड रस्ता</option3>
+        <answer>३. उजवीकडे साईड रस्ता</answer>
+        <image>61.png</image>
+    </question>
+    <question id="62">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. डावीकडे साईड रस्ता</option1>
+        <option2>२. उजवीकडे साईड रस्ता</option2>
+        <option3>३. वाय आंतरछेद</option3>
+        <answer>१. डावीकडे साईड रस्ता</answer>
+        <image>62.png</image>
+    </question>
+    <question id="63">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. वाय आंतरछेद</option1>
+        <option2>२. उजवीकडे साईड रस्ता</option2>
+        <option3>३. डावीकडे साईड रस्ता</option3>
+        <answer>२. उजवीकडे साईड रस्ता</answer>
+        <image>63.png</image>
+    </question>
+    <question id="64">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. टी आंतरछेद</option1>
+        <option2>२. वाय आंतरछेद</option2>
+        <option3>३. नागमोडी आंतरछेद</option3>
+        <answer>२. ताय आंतरछेद</answer>
+        <image>64.png</image>
+    </question>
+    <question id="65">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. वाय आंतरछेद</option1>
+        <option2>२. टी आंतरछेद</option2>
+        <option3>३. पुढे प्रमुख मार्ग आहे</option3>
+        <answer>२. टी आंतरछेद</answer>
+        <image>65.png</image>
+    </question>
+    <question id="66">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. टी आंतरछेद</option1>
+        <option2>२. वाय आंतरछेद</option2>
+        <option3>३. नागमोडी आंतरछेद</option3>
+        <answer>३. नागमोडी आंतरछेद</answer>
+        <image>66.png</image>
+    </question>
+    <question id="67">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. पुढे प्रमुख मार्ग आहे</option1>
+        <option2>२. टी आंतरछेद</option2>
+        <option3>३. काठरस्ता</option3>
+        <answer>१. पुढे प्रमुख मार्ग आहे</answer>
+        <image>67.png</image>
+    </question>
+    <question id="68">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. नागमोडी आंतरछेद</option1>
+        <option2>२. टी आंतरछेद</option2>
+        <option3>३. पुढे प्रमुख मार्ग आहे</option3>
+        <answer>३. पुढे प्रमुख मार्ग आहे</answer>
+        <image>68.png</image>
+    </question>
+    <question id="69">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. उजवीकडे तळा</option1>
+        <option2>२. उजवीकडे हेअरपीन वळन</option2>
+        <option3>३. वर्तुळ मार्ग</option3>
+        <answer>३. वर्तुळ मार्ग</answer>
+        <image>69.png</image>
+    </question>
+    <question id="70">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. तरी</option1>
+        <option2>२. धोकादायक लवण</option2>
+        <option3>३. गती रोधक</option3>
+        <answer>२. धोकादायक लवण</answer>
+        <image>70.png</image>
+    </question>
+    <question id="71">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. गती रोधक</option1>
+        <option2>२. धोकादायक लवण</option2>
+        <option3>३. कर्मचारी कमावर आहेत</option3>
+        <answer>१. गती रोधक</answer>
+        <image>71.png</image>
+    </question>
+    <question id="72">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. झोपडी</option1>
+        <option2>२. पुढे रोधक आहे</option2>
+        <option3>३. वाहनांना प्रतिबंध</option3>
+        <answer>२. पुढे रोधक आहे</answer>
+        <image>72.png</image>
+    </question>
+    <question id="73">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. असुरक्षित लेवेल क्रोसिंग २००मी</option1>
+        <option2>२. असुरक्षित लेवेल क्रोसिंग १००मी</option2>
+        <option3>३. सुरक्षित लेवेल क्रोसिंग २००मी</option3>
+        <answer>१. असुरक्षित लेवेल क्रोसिंग २००मी</answer>
+        <image>73.png</image>
+    </question>
+    <question id="74">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. असुरक्षित लेवेल क्रोसिंग २००मी</option1>
+        <option2>२. असुरक्षित लेवेल क्रोसिंग ५० ते १००मी</option2>
+        <option3>३. सुरक्षित लेवेल क्रोसिंग २००मी</option3>
+        <answer>२. असुरक्षित लेवेल क्रोसिंग ५० ते १००मी</answer>
+        <image>74.png</image>
+    </question>
+    <question id="75">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. असुरक्षित लेवेल क्रोसिंग २००मी</option1>
+        <option3>२. सुरक्षित लेवेल क्रोसिंग २००मी</option3>
+        <option3>३. सुरक्षित लेवेल क्रोसिंग २००मी</option3>
+        <answer>२. सुरक्षित लेवेल क्रोसिंग २००मी</answer>
+        <image>75.png</image>
+    </question>
+    <question id="76">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. असुरक्षित लेवेल क्रोसिंग ५०मी</option1>
+        <option2>२. सुरक्षित लेवेल क्रोसिंग ५० ते १००मी</option2>
+        <option3>३. असुरक्षित लेवेल क्रोसिंग २००मी</option3>
+        <answer>२. सुरक्षित लेवेल क्रोसिंग ५० ते १००मी</answer>
+        <image>76.png</image>
+    </question>
+    <question id="77">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. आगाऊ दिशा निर्देशन</option1>
+        <option2>२. स्थान निर्देशन</option2>
+        <option3>३. दिशा निर्देशन</option3>
+        <answer>१. आगाऊ दिशा निर्देशन</answer>
+        <image>77.png</image>
+    </question>
+    <question id="78">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. आगाऊ दिशा निर्देशन</option1>
+        <option2>२. स्थान निर्देशन</option2>
+        <option3>३. दिशा निर्देशन</option3>
+        <answer>२. स्थान निर्देशन</answer>
+        <image>78.png</image>
+    </question>
+    <question id="79">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. आगाऊ दिशा निर्देशन</option1>
+        <option2>२. स्थान निर्देशन</option2>
+        <option3>३. दिशा निर्देशन</option3>
+        <answer>३. दिशा निर्देशन</answer>
+        <image>79.png</image>
+    </question>
+    <question id="80">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. पुनर्निश्च्ती चिन्ह</option1>
+        <option2>२. स्थान परिचय चिन्ह</option2>
+        <option3>३. स्थान निर्देशन चिन्ह</option3>
+        <answer>१. पुनर्निश्च्ती चिन्ह</answer>
+        <image>80.png</image>
+    </question>
+    <question id="81">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. पुनर्निश्च्ती चिन्ह</option1>
+        <option2>२. स्थान परिचय चिन्ह</option2>
+        <option3>३. स्थान निर्देशन चिन्ह</option3>
+        <answer>२. स्थान परिचय चिन्ह</answer>
+        <image>81.png</image>
+    </question>
+    <question id="82">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. रुग्णालय</option1>
+        <option2>२. दूरध्वनी</option2>
+        <option3>३. पेट्रोल पंप</option3>
+        <answer>२. दूरध्वनी</answer>
+        <image>82.png</image>
+    </question>
+    <question id="83">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. रुग्णालय</option1>
+        <option2>२. पेट्रोल पंप</option2>
+        <option3>३. दूरध्वनी</option3>
+        <answer>२. पेट्रोल पंप</answer>
+        <image>83.png</image>
+    </question>
+    <question id="84">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. विश्राम स्थान</option1>
+        <option2>२. रुग्णालय</option2>
+        <option3>३. प्रथमोपचार केंद्र</option3>
+        <answer>२. रुग्णालय</answer>
+        <image>84.png</image>
+    </question>
+    <question id="85">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. विश्राम स्थान</option1>
+        <option2>२. रुग्णालय</option2>
+        <option3>३. प्रथमोपचार केंद्र</option3>
+        <answer>३. प्रथमोपचार केंद्र</answer>
+        <image>85.png</image>
+    </question>
+    <question id="86">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. भोजनालय</option1>
+        <option2>२. उपहार गृह</option2>
+        <option3>३. कटलरी दुकान</option3>
+        <answer>१. भोजनालय</answer>
+        <image>86.png</image>
+    </question>
+    <question id="87">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. भोजनालय</option1>
+        <option2>२. उपहार गृह</option2>
+        <option3>३. विश्राम स्थान</option3>
+        <answer>२. उपहार गृह</answer>
+        <image>87.png</image>
+    </question>
+    <question id="88">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. रुग्णालय</option1>
+        <option2>२. प्रथमोपचार केंद</option2>
+        <option3>३. विश्राम स्थान</option3>
+        <answer>३. विश्राम स्थान</answer>
+        <image>88.png</image>
+    </question>
+    <question id="89">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. टी अंतरछेद</option1>
+        <option2>२. पुढे प्रमुख मार्ग</option2>
+        <option3>३. पुढे जाण्यास मनाई</option3>
+        <answer>३. पुढे जाण्यास मनाई</answer>
+        <image>89.png</image>
+    </question>
+    <question id="90">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. पुढे जाण्यास मनाई</option1>
+        <option2>२. दोन्ही बाजूस पार्किंग मनाई</option2>
+        <option3>३. पुढे साईड रस्ता नाही</option3>
+        <answer>३. पुढे साईड रस्ता नाही</answer>
+        <image>90.png</image>
+    </question>
+    <question id="91">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. वाहने या बाजूस उभी करा</option1>
+        <option2>२. दुतर्फा पार्किंग</option2>
+        <option3>३. वाहने उभी करू नयेत</option3>
+        <answer>१. वाहने या बाजूस उभी करा</answer>
+        <image>91.png</image>
+    </question>
+    <question id="92">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. वाहने या बाजूस उभी करा</option1>
+        <option2>२. दुतर्फा पार्किंग</option2>
+        <option3>३. वाहने उभी करू नयेत</option3>
+        <answer>२. दुतर्फा पार्किंग</answer>
+        <image>92.png</image>
+    </question>
+    <question id="93">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. Taxi पार्किंग</option1>
+        <option2>२. स्कूटर आणि मोटारसायकल पार्किंग</option2>
+        <option3>३. सायकल पार्किंग</option3>
+        <answer>२. स्कूटर आणि मोटारसायकल पार्किंग</answer>
+        <image>93.png</image>
+    </question>
+    <question id="94">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. सायकल पार्किंग</option1>
+        <option2>२. स्कूटर्स पार्किंग</option2>
+        <option3>३. सायकल पार्किंग मनाई</option3>
+        <answer>१. सायकल पार्किंग</answer>
+        <image>94.png</image>
+    </question>
+    <question id="95">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. कार पार्किंग</option1>
+        <option2>२. Taxi पार्किंग</option2>
+        <option3>३. ऑटो रिक्षा पार्किंग</option3>
+        <answer>२. Taxi पार्किंग</answer>
+        <image>95.png</image>
+    </question>
+    <question id="96">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. Taxi पार्किंग</option1>
+        <option2>२. सायकल रिक्षा पार्किंग</option2>
+        <option3>३. ऑटो रिक्षा पार्किंग</option3>
+        <answer>३. ऑटो रिक्षा पार्किंग</answer>
+        <image>96.png</image>
+    </question>
+    <question id="97">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. मोटारसायकल पार्किंग</option1>
+        <option2>२. सायकल पार्किंग</option2>
+        <option3>३. सायकलरिक्षा पार्किंग</option3>
+        <answer>३. सायकलरिक्षा पार्किंग</answer>
+        <image>97.png</image>
+    </question>
+    <question id="98">
+        <text>हे चिन्ह काय दर्शवते?</text>
+        <option1>१. पुलाची उंची</option1>
+        <option2>२. समुद्र पातळी पासून रस्त्याची उंची</option2>
+        <option3>३. पूर प्रमापी</option3>
+        <answer>३. पूर प्रमापी</answer>
+        <image>98.png</image>
+    </question>
+    <question id="99">
+        <text>तुमच्या वाहनाला अपघात होउन लोक जखमी झाल्यास तुम्ही काय कराल?</text>
+        <option1>१. जखमींना वैदकिय मदत उपलब्ध कराल</option1>
+        <option2>२. वाहन त्याचठिकाणी सोडून पडून जाऊ</option2>
+        <option3>३. वाहन घेउन वेगाने निघून जाऊ</option3>
+        <answer>१. जखमींना वैदकिय मदत उपलब्ध कराल</answer>
+    </question>
+    <question id="100">
+        <text>तुमचे वाहन नेहमीरस्त्याच्याकोणत्यबाजूने चालवाल?</text>
+        <option1>१. रस्त्याच्या डाव्या बाजूने</option1>
+        <option2>२. रस्त्याच्या उजव्या बाजूने</option2>
+        <option3>३. रस्त्याच्या मधून</option3>
+        <answer>१. रस्त्याच्या डाव्या बाजूने</answer>
+    </question>
+    <question id="101">
+        <text>डावीकडे वळतन्ना तुम्ही वाहन शक्यतो रस्त्याच्या ...</text>
+        <option1>१. अगदी डाव्या बाजूने चलावल</option1>
+        <option2>२. अगदी उजव्या बाजूने चलावल</option2>
+        <option3>३. अगदी मधून चलावल</option3>
+        <answer>३. अगदी मधून चलावल</answer>
+    </question>
+    <question id="102">
+        <text>तुम्ही कोणत्य बाजूने ओव्हरटेक कराल?</text>
+        <option1>१. त्याच दिशेतिल सर्व वाहनाच्या उजव्या बाजूने</option1>
+        <option2>२. त्याच दिशेतिल सर्व वाहनाच्या डाव्या बाजूने</option2>
+        <option3>३. त्याच दिशेतिल सर्व वाहनाच्या मधून</option3>
+        <answer>१. त्याच दिशेतिल सर्व वाहनाच्या उजव्या बाजूने</answer>
+    </question>
+    <question id="103">
+        <text>अन्य वाहन तुमच्या वाहनास ओव्हरटेक करत असतील टार तुम्ही ...</text>
+        <option1>१. तुमचे वाहन थाम्बवुन इतरांना पुढे जाऊ द्याल</option1>
+        <option2>२. तुमच्या वाहनाच्या वेग कमी करुन पुढे जाऊ द्याल</option2>
+        <option3>३. तुमच्या वाहनाचा वेग वाढवून स्वतः पुढे जाल</option3>
+        <answer>२. तुमच्या वाहनाच्या वेग कमी करुन पुढे जाऊ द्याल</answer>
+    </question>
+    <question id="104">
+        <text>रस्त्याचे छेदस्तान, क्रोसिंग किंवा जंक्शन यांच्या जवळ जात असतांना तुम्ही ...</text>
+        <option1>१. तो वेगाने पार करून जाल</option1>
+        <option2>२. वेग कमी करून सुरक्षित असेल तरच प्रवेश कराल</option2>
+        <option3>३. तुमचे वाहन थांबवाल</option3>
+        <answer>२. वेग कमी करून सुरक्षित असेल तरच प्रवेश कराल</answer>
+    </question>
+    <question id="105">
+        <text>तुम्ही कोणत्या रहदारीस/ वाहनांना मार्ग करून द्याल?</text>
+        <option1>१. तुमच्या उजवीकडील चेदास्तानाकडे येणारी वाहने</option1>
+        <option2>२. तुमच्या डावीकडील चेदास्तानाकडे येणारी वाहने</option2>
+        <option3>३. रस्त्याच्या मध्यापासून चेदास्तानाकडे येणारी वाहने</option3>
+        <answer>१. तुमच्या उजवीकडील चेदास्तानाकडे येणारी वाहने</answer>
+    </question>
+    <question id="106">
+        <text>जेव्हा अग्निशमनवाहन/रुग्णवाहिका तुमच्या नजीक येत असेल तर ...</text>
+        <option1>१. त्यास मार्ग मोकळा करून द्याल</option1>
+        <option2>२. मार्ग मोकळा करून देणार नाही</option2>
+        <option3>३. त्या काळे दुर्लक्ष्य कराल</option3>
+        <answer>१. त्यास मार्ग मोकळा करून द्याल</answer>
+    </question>
+    <question id="107">
+        <text>सिग्नलविरहित छेदस्तनातून जातांना तुमच्या कारसामोरून लोक रस्ता ओलांडत असतील तर तुम्ही
+            ...
+        </text>
+        <option1>१. वेग कमी न करता छेदस्तनाकडे जात राहाल</option1>
+        <option2>२. वाहनाचा वेग मंदावून छेदस्तनाकडे जात रहाल</option2>
+        <option3>३. थांबाल आणि लोकांना रस्ता ओलांडू द्याल</option3>
+        <answer>३. थांबाल आणि लोकांना रस्ता ओलांडू द्याल</answer>
+    </question>
+    <question id="108">
+        <text>ट्राफिक लाईटने नियंत्रित केलेल्या छेदस्तनी यू वळन घेतांना ...</text>
+        <option1>१. अन्य छेदस्तनाकडे वाहन नेऊ</option1>
+        <option2>२. दिवा हिरवा होईपर्यंत प्रतीक्षा करू</option2>
+        <option3>३. छेदस्तनाकडे पोलीस नसेल तर यू वळण घेऊ</option3>
+        <answer>२. दिवा हिरवा होईपर्यंत प्रतीक्षा करू</answer>
+    </question>
+    <question id="109">
+        <text>वाहन चालविताना तुम्हाला मार्गिका बदलायची असेल तर ...</text>
+        <option1>१. वेगाने मार्गिका बदलाल</option1>
+        <option2>२. योग्य ते संकेत देऊन सुरक्षितपणे मार्गिका बदलाल</option2>
+        <option3>३. मार्गिका बदलणारच नाही</option3>
+        <answer>२. योग्य ते संकेत देऊन सुरक्षितपणे मार्गिका बदलाल</answer>
+    </question>
+    <question id="110">
+        <text>तुम्ही वाहन थांबवण्याच्या बेतात आहात तर तुमचा उजवा हात तुम्ही ...</text>
+        <option1>१. वाहनाच्या उजव्या बाजूने हात उभा बाहेर काढाल</option1>
+        <option2>२. खालीवर कराल</option2>
+        <option3>३. घड्याळाच्या दिशेने वर्तुळाकार फिरवाल</option3>
+        <answer>१. वाहनाच्या उजव्या बाजूने हात उभा बाहेर काढाल</answer>
+    </question>
+    <question id="111">
+        <text>वाहन पार्किंग करतांना तुम्ही कोणती दक्षता घ्याल?</text>
+        <option1>१. इतरांना कोणताही धोका, अडचण व गैरसोय होणार नाही</option1>
+        <option2>२. इतरांना धोका निर्माण होईल</option2>
+        <option3>३. इतरांची गैरसोय होतील</option3>
+        <answer>१. इतरांना कोणताही धोका, अडचण व गैरसोय होणार नाही</answer>
+    </question>
+    <question id="112">
+        <text>तुमचे वाहनांचे तुम्ही कसे पार्किंग कराल?</text>
+        <option1>१. सिग्नल बोर्ड किवा रस्त्यावरील मार्किंग प्रमाणे</option1>
+        <option2>२. तुम्हाला आवडेल त्या ठिकाणी</option2>
+        <option3>३. पोलिसास विचारून</option3>
+        <answer>१. सिग्नल बोर्ड किवा रस्त्यावरील मार्किंग प्रमाणे</answer>
+    </question>
+    <question id="113">
+        <text>मार्गिका आखलेल्या रस्त्यावरून तुम्ही वाहन कसे चालवाल ?</text>
+        <option1>१. मार्गीकेमधुनच चालवू, योग्यतो सिग्नल देऊन मार्गिका बदलू</option1>
+        <option2>२. अतिशय जास्त वेगाने वाहन चालवू</option2>
+        <option3>३. अतिशय कमी वेगाने वाहन चालवू</option3>
+        <answer>१. मार्गीकेमधुनच चालवू, योग्यतो सिग्नल देऊन मार्गिका बदलू</answer>
+    </question>
+    <question id="114">
+        <text>अन्य वाहनाच्या मागून जात असतांना वाहन चालकाने काय करावे?</text>
+        <option1>१. समोरील वाहनापासून सुरक्षित अंतर ठेवावे</option1>
+        <option2>२. तत्काळ ओव्हरटेक करून निघून जावे</option2>
+        <option3>३. पुढील वाहनांपासून कोणतेही अंतर ठेवू नये</option3>
+        <answer>३. समोरील वाहनापासून सुरक्षित अंतर ठेवावे</answer>
+    </question>
+    <question id="115">
+        <text>गणवेशधारी अधिकारी यांनी कोणतीही सूचना किवा निर्देश दिल्यास तुम्ही ...</text>
+        <option1>१. त्याचे पालन कराल</option1>
+        <option2>२. त्याकडे दुर्लक्ष्य कराल</option2>
+        <option3>३. कधी पालन करू कधी करणार नाही</option3>
+        <answer>३. त्याचे पालन कराल</answer>
+    </question>
+    <question id="116">
+        <text>जेव्हा तुम्ही शांतता क्षेत्रातून वाहन चालवित असाल तेव्हा ...</text>
+        <option1>१. होर्न वाजविणार नाही</option1>
+        <option2>२. होर्न वाजवाल</option2>
+        <option3>३. मर्जीनुसार होर्न वाजवाल किव्वा वाजविणार नाही</option3>
+        <answer>१. होर्न वाजविणार नाही</answer>
+    </question>
+    <question id="117">
+        <text>बहुतेक अपघाताचे प्रमुख कारण कोणते?</text>
+        <option1>१. रस्ता</option1>
+        <option2>२. वाहन चालक</option2>
+        <option3>३. वाहन</option3>
+        <answer>२. वाहन चालक</answer>
+    </question>
+    <question id="118">
+        <text>कायद्याच्या द्रुष्टीने कोणत्या प्रकारचा विमा सक्तीचा आहे?</text>
+        <option1>१. वाहनाच्या समादेशक विमा</option1>
+        <option2>२. ड्रायव्हरचा खाजगी विमा</option2>
+        <option3>३. त्रयस्त व्यक्तीचा विमा</option3>
+        <answer>३. त्रयस्त व्यक्तीचा विमा</answer>
+    </question>
+    <question id="119">
+        <text>मोटारसायकल चालवित असतांना हातानी द्यावयाचे इशारे नेहमी ...</text>
+        <option1>१. फक्त उजव्या हातानेच द्यावेत</option1>
+        <option2>२. फक्त डाव्या हातानेच द्यावेत</option2>
+        <option3>३. सोयी प्रमाणे कोणत्याही हाताने द्यावेत</option3>
+        <answer>१. फक्त उजव्या हातानेच द्यावेत</answer>
+    </question>
+    <question id="120">
+        <text>प्रवासी बस/Taxi चालकाने धुम्रपान केल्यास ...</text>
+        <option1>१. ३ दिवसांची शिक्षा</option1>
+        <option2>२. वाहन चालकाचे लायसन्स निलंबीत होऊ शकते</option2>
+        <option3>३. दंड रू.१००</option3>
+        <answer>२. वाहन चालकाचे लायसन्स निलंबीत होऊ शकते</answer>
+    </question>
+    <question id="121">
+        <text>ड्रायव्हिंग लायसेन्स केव्हा जवळ बाळगावे</text>
+        <option1>१. वाहन चालवितीना नेहमी</option1>
+        <option2>२. फक्य राजमार्गावरून वाहन चालविताना</option2>
+        <option3>३. जवळ बाळगण्याची गरज नाही</option3>
+        <answer>१. वाहन चालवितीना नेहमी</answer>
+    </question>
+    <question id="122">
+        <text>ट्राफिक सिग्नल मधला पिवळा दिवा म्हणजे ?</text>
+        <option1>१. वेग कमी करून काळजीपूर्वक जा</option1>
+        <option2>२. थांबा</option2>
+        <option3>३. वेगाने निहून जाणे</option3>
+        <answer>१. वेग कमी करून काळजीपूर्वक जा</answer>
+    </question>
+    <question id="123">
+        <text>ट्राफिक सिग्नल मधला हिरवा दिवा म्हणजे?</text>
+        <option1>१. थांबा</option1>
+        <option2>२. वेगाने निहून जाणे</option2>
+        <option3>३. वेग कमी करून काळजीपूर्वक जा</option3>
+        <answer>२. वेगाने निहून जाणे</answer>
+    </question>
+    <question id="124">
+        <text>ट्राफिक सिग्नल मधला लाल दिवा म्हणजे?</text>
+        <option1>१. थांबा</option1>
+        <option2>२. वेगाने निहून जाणे</option2>
+        <option3>३. वेग कमी करून काळजीपूर्वक जा</option3>
+        <answer>१. थांबा</answer>
+    </question>
+    <question id="125">
+        <text>मोटार वाहन धोका दायक होयील अश्या स्थितीत उभे न करणे संबधित तरतूद ?</text>
+        <option1>१. मोटार वाहन कायदा कलम १२२</option1>
+        <option2>२. मोटार वाहन कायदा कलम १२३</option2>
+        <option3>३. मोटार वाहन कायदा कलम १२५</option3>
+        <answer>१. मोटार वाहन कायदा कलम १२२</answer>
+    </question>
+    <question id="126">
+        <text>पायाफाळीवर उतारू वाहन न नेण्यासंबधित तरदूत ?</text>
+        <option1>१. मोटार वाहन कायदा कलम १२२</option1>
+        <option2>२. मोटार वाहन कायदा कलम १२५</option2>
+        <option3>३. मोटार वाहन कायदा कलम १२३</option3>
+        <answer>३. मोटार वाहन कायदा कलम १२३</answer>
+    </question>
+    <question id="127">
+        <text>दुचाकी वाहन चालक व त्याचा पाठीमागे बसलेल्या व्येक्तीसाठी सूचना ?</text>
+        <option1>१. मोटार वाहन कायदा कलम १२५</option1>
+        <option2>२. मोटार वाहन कायदा कलम १२६</option2>
+        <option3>३. मोटार वाहन कायदा कलम १२८</option3>
+        <answer>३. मोटार वाहन कायदा कलम १२८</answer>
+    </question>
+    <question id="128">
+        <text>चालकाने लायसन्स व नोदणीचे प्रमाणपत्र हजर करणे किवा दाखविणे संबंधित तरदूत ?</text>
+        <option1>१. मोटार वाहन कायदा कलम १३०</option1>
+        <option2>२. मोटार वाहन कायदा कलम १३१</option2>
+        <option3>३. मोटार वाहन कायदा कलम १३४</option3>
+        <answer>२. मोटार वाहन कायदा कलम १३०</answer>
+    </question>
+    <question id="129">
+        <text>चालकाने असंरक्षित रेल्वे क्रोसिंगच्या काळजी घेण्यासंबंधी ची तरदूत ?</text>
+        <option1>१. मोटार वाहन कायदा कलम १३०</option1>
+        <option2>२. मोटार वाहन कायदा कलम १३१</option2>
+        <option3>३. मोटार वाहन कायदा कलम १३४</option3>
+        <answer>३. मोटार वाहन कायदा कलम १३१</answer>
+    </question>
+    <question id="130">
+        <text>अपघात प्रसंगी चालकाचे कर्तव्ये संबधित तरदूत ?</text>
+        <option1>१. मोटार वाहन कायदा कलम १३०</option1>
+        <option2>२. मोटार वाहन कायदा कलम १३१</option2>
+        <option3>३. मोटार वाहन कायदा कलम १३४</option3>
+        <answer>. मोटार वाहन कायदा कलम १३४</answer>
+    </question>
+    <question id="131">
+        <text>कोणत्या ठिकाणी ओव्हरटेक करणे अत्यंत धोकादायक आहे ?</text>
+        <option1>१. एक दिशा मार्गावर</option1>
+        <option2>२. दुतगती महामार्गावर</option2>
+        <option3>३. आंधळ्या वळणावर व डोंगरमाथ्यावर</option3>
+        <answer>३. आंधळ्या वळणावर व डोंगरमाथ्यावर</answer>
+    </question>
+    <question id="132">
+        <text>दृतगती महामार्गावरील अगदी उजवीकडील मार्गिका हि ?</text>
+        <option1>१. कोणत्याही वाहनांनी वापरावी</option1>
+        <option2>२. फक्त ओव्हरटेक करण्यासाठी वापरावी</option2>
+        <option3>३. वेगाने जाणाऱ्या वाहनांसाठी राखीव असते</option3>
+        <answer>२. फक्त ओव्हरटेक करण्यासाठी वापरावी</answer>
+    </question>
+    <question id="133">
+        <text>वाहनाची गती कमी करताना ?</text>
+        <option1>१. आधी कल्च दाबून ब्रेंक दाबावा</option1>
+        <option2>२. आधी ब्रेंक दाबून मग क्लच दाबावा</option2>
+        <option3>३. ब्रेंक व क्लच दोघे सोबतच दाबावा</option3>
+        <answer>२. आधी ब्रेंक दाबून मग क्लच दाबावा</answer>
+    </question>
+    <question id="134">
+        <text>डावीकडे वाळण्यापूर्वी तुह्मी वाहन रस्त्याच्या ?</text>
+        <option1>१. डाव्या मार्गीकेमाद्ये ठेवालं</option1>
+        <option2>२. अगदी उजव्या बाजूने चालवाल</option2>
+        <option3>३. रस्त्याच्या माधोमद चालवा</option3>
+        <answer>१. डाव्या मार्गीकेमाद्ये ठेवालं</answer>
+    </question>
+    <question id="135">
+        <text>अन्य वाहने तुमच्या वाहनाला ओव्हरटेक करत असतील तेव्हा ?</text>
+        <option1>१. तुमचे वाहन थांबून त्यांना पुढे जाऊ द्या</option1>
+        <option2>२. तुमच्या वाहनाचा वेग कमी करुन त्या वाहनाला जाऊद्या</option2>
+        <option3>३. वाहनाचा वेग वाढवा आणि त्या वाहनाला जाऊ देऊ नका</option3>
+        <answer>२. तुमच्या वाहनाचा वेग कमी करुन त्या वाहनाला जाऊद्या</answer>
+    </question>
+    <question id="136">
+        <text>वाहन थांबवायचे असेल तर ?</text>
+        <option1>१. उजवा हात बाहेर काढून कोपरात काटकोनात वाकून बोट आकाशाकडे कराल</option1>
+        <option2>२. हात खालीवर हालवाल</option2>
+        <option3>३. हात घड्याळ्याच्या दिशेने वर्तुळाकार फिरवाल</option3>
+        <answer>१. उजवा हात बाहेर काढून कोपरात काटकोनात वाकून बोट आकाशाकडे कराल</answer>
+    </question>
+    <question id="137">
+        <text>जेव्हा तुह्मी शांततामय क्षेत्रात वाहन चालवत असाल तेव्हा ?</text>
+        <option1>१. होर्न वाजविणार नाही</option1>
+        <option2>२. होर्न वाजवाल</option2>
+        <option3>३. परीस्थीतीनुसार ठरवालं</option3>
+        <answer>१. होर्न वाजविणार नाही</answer>
+    </question>
+    <question id="138">
+        <text>उजवीकडे वळण घ्यायचं असेल तर ?</text>
+        <option1>१. कोण्त्याही रंगत असेल तरी चालेल</option1>
+        <option2>२. मधल्या रांगेत असले पाहिजे</option2>
+        <option3>३. अगदी उजव्या बाजूच्या रांगेतच असल पाहिजे</option3>
+        <answer>३. अगदी उजव्या बाजूच्या रांगेतच असल पाहिजे</answer>
+    </question>
+    <question id="139">
+        <text>वाहन वळविण्याच्या प्रकियेत "एम.एस.एम " चा अर्थ ?</text>
+        <option1>१. मनुव्हर सिग्नल मिरर</option1>
+        <option2>२. मिरर सिग्नल मनुव्हर</option2>
+        <option3>३. मिरर स्पीड मनुव्हर</option3>
+        <answer>२. मिरर सिग्नल मनुव्हर</answer>
+    </question>
+    <question id="140">
+        <text>ड्रायव्हिंग लायसन्स प्राप्त करण्यासाठी अर्जदाराचे डोळ्याने पाहण्याची क्षमता कशी असावी
+            ?
+        </text>
+        <option1>१. त्याला स्वच्छ सूर्यप्रकाशात २५ मीटर अंतरावर उभ्या असलेल्या कारच्या नोंदणीक्रमांक
+            वाचता आला पाहिजे
+        </option1>
+        <option2>२. त्याला स्वच्छ सूर्यप्रकाशात १० मीटर अंतरावर उभ्या असलेल्या कारच्या नोंदणीक्रमांक
+            वाचता आला पाहिजे
+        </option2>
+        <option3>३. चश्मा असल्यास अर्जदार अपात्र ठरतो</option3>
+        <answer>१. त्याला स्वच्छ सूर्यप्रकाशात २५ मीटर अंतरावर उभ्या असलेल्या कारच्या नोंदणीक्रमांक
+            वाचता आला पाहिजे
+        </answer>
+    </question>
+    <question id="141">
+        <text>शिकाऊ लायसन्स धारकाने वाहन चालविण्याचे प्रशिक्षण घेताना ?</text>
+        <option1>१. वाहन फक्त दिवसा चालवावे</option1>
+        <option2>२. वाहन कमी वाहतुकीच्या ठिकाणी चालवावे</option2>
+        <option3>३. पक्के लायसन्स धारकव्यक्ती बाजूला असल्या शिवाय वाहन चालू नये</option3>
+        <answer>३. पक्के लायसन्स धारकव्यक्ती बाजूला असल्या शिवाय वाहन चालू नये</answer>
+    </question>
+    <question id="142">
+        <text>महाराष्ट्रातील आर ती ओ कार्यालातील शिकाऊ लायसन्स हे ?</text>
+        <option1>१. फक्त संबधित क्षेत्राच वैध असेल</option1>
+        <option2>२. संपूर्ण महाराष्ट्रात वैध असेल</option2>
+        <option3>३. संपूर्ण भारतात वैध असेल</option3>
+        <answer>३. संपूर्ण भारतात वैध असेल</answer>
+    </question>
+    <question id="143">
+        <text>वाहन वळविण्याच्या संदर्भात पि एस एल तंत्राचा अर्थ ?</text>
+        <option1>१. पोझिशन सिग्नल लुक</option1>
+        <option2>२. पोझिशन स्पीड लुक</option2>
+        <option3>३. पार्क सिग्नल लुक</option3>
+        <answer>२. पोझिशन स्पीड लुक</answer>
+    </question>
+    <question id="144">
+        <text>शिकाऊ लायसन्स धारकाने वाहन चालविताना L पार्टी ?</text>
+        <option1>१. गरजेचे आहे</option1>
+        <option2>२. बांधककारक आहे</option2>
+        <option3>३. इच्छिक आहे</option3>
+        <answer>२. बांधककारक आहे</answer>
+    </question>
+    <question id="145">
+        <text>शिकाऊ लायसन्स वैधता ?</text>
+        <option1>१. तीन महिने असते</option1>
+        <option2>२. सहा महिने असते</option2>
+        <option3>३. चार महिने असते</option3>
+        <answer>२. सहा महिने असते</answer>
+    </question>
+    <question id="146">
+        <text>एका व्यक्तीस किती लायसन बाळगता येतात ?</text>
+        <option1>१. प्रत्येक वाहन वर्गासाठी एक</option1>
+        <option2>२. फक्त एकच लायसन्स</option2>
+        <option3>३. जास्तीत जास्त दोन लायसन्स</option3>
+        <answer>२. फक्त एकच लायसन्स</answer>
+    </question>
+    <question id="147">
+        <text>कार अधवा दुचाकी वाहन चालीविताना जवळ बाळगायची कागदपत्रे ?</text>
+        <option1>१. फक्त ड्रायव्हिंग लायसन्स</option1>
+        <option2>२. फक्त ड्रायव्हिंग लायसन्स व पि.यु.सी</option2>
+        <option3>३. ड्रायव्हिंग लायसन्स ,विमा ,नोदणीपत्र व पि.यु.सी.</option3>
+        <answer>३. ड्रायव्हिंग लायसन्स ,विमा ,नोदणीपत्र व पि.यु.सी.</answer>
+    </question>
+    <question id="148">
+        <text>चालकाचे लायसन्स निलंबित केले असल्याचे कोणत्या प्रसंगी तो वाहन चालवू शकतो ?</text>
+        <option1>१. फक्त आपत्कालीन प्रसंगी</option1>
+        <option2>२. फक्त पक्के लायसन्स धारक सोबत असणे</option2>
+        <option3>३. कधीच नाही</option3>
+        <answer>३. कधीच नाही</answer>
+    </question>
+    <question id="149">
+        <text>समोरील वाहनाच्या प्रखर प्रकशामुळे तुमचे डोळे दिपलयास ?</text>
+        <option1>१. डोळे चटकून बंद करा</option1>
+        <option2>२. तुह्मीपण समोरच्या वाहणावर प्रखर प्रकाशझोत मारावा</option2>
+        <option3>३. वाहनाची गती कमी करून वाहन डाव्या बाजूला उभे करा</option3>
+        <answer>३. वाहनाची गती कमी करून वाहन डाव्या बाजूला उभे करा</answer>
+    </question>
+    <question id="150">
+        <text>झेब्रा क्रोस्सिंग ठिकाणी तुह्मी ?</text>
+        <option1>१. होर्न वाजवून आहे</option1>
+        <option2>२. थांबून पादचार्यांना जाऊ द्या</option2>
+        <option3>३. वेग कमी करून सावधानतेने जा</option3>
+        <answer>२. थांबून पादचार्यांना जाऊ द्या</answer>
+    </question>
+    <question id="151">
+        <text>अरुंद गल्लीत मुख्य रस्त्यावर प्रवेश करताना अग्रकम हा ?</text>
+        <option1>१. मुख्य रस्त्यावर वाहनाना असतो</option1>
+        <option2>२. गल्लीत येणार्यां वाहनांना असतो</option2>
+        <option3>३. वेगात असणाऱ्या वाहनांना असतो</option3>
+        <answer>१. मुख्य रस्त्यावर वाहनाना असतो</answer>
+    </question>
+    <question id="152">
+        <text>वाहन चालताना रस्त्यात तुमच्या बाजूला अडथळा असल्यास ?</text>
+        <option1>१. समोरून येण्याऱ्या वाहन चालकास जाऊ देऊ नका</option1>
+        <option2>२. आपल्या वाहणा चा वेग वाढवून पटकन अडथळा पार करावा</option2>
+        <option3>३. आपण वाहन थांबवून समोरच्या वाहनाला मार्ग द्या</option3>
+        <answer>३. आपण वाहन थांबवून समोरच्या वाहनाला मार्ग द्या</answer>
+    </question>
+    <question id="153">
+        <text>चौकट हिरव्या सिग्नलनंतर लगेच पिवळा सिग्नल दिसताच तुह्मी ?</text>
+        <option1>१. लाल सिग्नल पडण्यापूर्वी अक्सलेट करावे</option1>
+        <option2>२. 'थांबा रेषा ' अगोदरच ओलांडली असले तरच जा</option2>
+        <option3>३. चौकात पोलीस उभा नसल्यास जाण्यास हरकत नाही</option3>
+        <answer>२. 'थांबा रेषा ' अगोदरच ओलांडली असले तरच जा</answer>
+    </question>
+    <question id="154">
+        <text>कायद्याने निर्धारित केलेल्या वेगमर्यादापेक्षा जास्त वेगाने वाहन चालविण्यासाठी परवानगी
+            ?
+        </text>
+        <option1>१. फक्त रात्रीच्या वेळी रत्याच्यावर अजिबात वेग मर्यादा नसते</option1>
+        <option2>२. फक्त दृतगती महामार्गावारच असते</option2>
+        <option3>३. कधीच नाही</option3>
+        <answer>३. कधीच नाही</answer>
+    </question>
+    <question id="155">
+        <text>मोटार वाहन कायदा १९८८ नुसार दुकाची वाहनासाठी कमाल वेग मर्यादा ?</text>
+        <option1>१. ताशी ६० किमी</option1>
+        <option2>२. ताशी ५० किमी</option2>
+        <option3>३. ताशी ८० किमी</option3>
+        <answer>२. ताशी ५० किमी</answer>
+    </question>
+    <question id="156">
+        <text>तुमच्या वाहन पुढे असलेल्या वाहनाना पासून तुमचे वाहन ?</text>
+        <option1>१. दोन सेकेंद च्या अंतरावर पाहिजे</option1>
+        <option2>२. दोन वाहनांच्या लांबीइतक असले पाहिजे</option2>
+        <option3>३. दोन मीटर अंतरावर असले पाहिजे</option3>
+        <answer>१. दोन सेकेंद च्या अंतरावर पाहिजे</answer>
+    </question>
+    <question id="157">
+        <text>वाहन पार्क केल्यावर ते सोडून जाण्यापूर्वी तुह्मी ?</text>
+        <option1>१. वाहनाचे इंजिन बंद करून चावी काढावी</option1>
+        <option2>२. वाहनाची इंजिन बंद करून चावी काढावी हंड्ब्रें क लावावा</option2>
+        <option3>३. वाहनाची इंजिन बंद करून ,चावी काढावी,हंड्ब्रें क लावावा,वाहन गेयीर मध्ये ठेवावे
+        </option3>
+        <answer>३. वाहनाची इंजिन बंद करून ,चावी काढावी,हंड्ब्रें क लावावा,वाहन गेयीर मध्ये ठेवावे
+        </answer>
+    </question>
+    <question id="158">
+        <text>दुचाकी वाहनाच्या बाबतीत ब्रेंकचा वापर करताना ?</text>
+        <option1>१. फक्त मागचा ब्रेंक वापरावा</option1>
+        <option2>२. फक्त पुढचा ब्रेंक वापरावा</option2>
+        <option3>३. दोन्ही ब्रेकचा एकाच वेळी वापरावे</option3>
+        <answer>३. दोन्ही ब्रेकचा एकाच वेळी वापरावे</answer>
+    </question>
+    <question id="159">
+        <text>मद्य प्रशान करून वाहन चालविताना आढळ्यास होणारी शिक्षा ?</text>
+        <option1>१. सहा महिने शिक्षा किवा रु .२००० दंड</option1>
+        <option2>२. फक्त दंड रु .१००</option2>
+        <option3>३. दंड रु.१००० किवा ३ महिने शिक्षा</option3>
+        <answer>१. सहा महिने शिक्षा किवा रु .२००० दंड</answer>
+    </question>
+    <question id="160">
+        <text>फुटपाथ नसलेल्या रस्त्यावरून चालताना पादचार्यांनी ?</text>
+        <option1>१. रस्त्याचा डाव्य बाजूने चालावे</option1>
+        <option2>२. रस्त्याचा उजव्याबाजूने चालावे</option2>
+        <option3>३. कोण्त्याही सोयीच्या बाजूने चालावे</option3>
+        <answer>२. रस्त्याचा उजव्याबाजूने चालावे</answer>
+    </question>
+    <question id="161">
+        <text>खाजकी वाहनानाचा नंबर प्लेट कोणत्या रंगाने पाहिजे ?</text>
+        <option1>१. काळ्या रंग्याचा प्लेट वर पांढरे अक्षरे</option1>
+        <option2>२. पांढर्या रंग्याचा प्लेट वर काळे अक्षरे</option2>
+        <option3>३. पिवळ्या रंग्याचा प्लेट वर काळे अक्षरे</option3>
+        <answer>२. पांढर्या रंग्याचा प्लेट वर काळे अक्षरे</answer>
+    </question>
+    <question id="162">
+        <text>व्यावसायिक वाहनाच्या नोदणी क्रमांक कसा असावा ?</text>
+        <option1>१. काळ्या रंग्याचा प्लेट वर पांढरे अक्षरे</option1>
+        <option2>२. पांढर्या रंग्याचा प्लेट वर काळे अक्षरे</option2>
+        <option3>३. पिवळ्या रंग्याचा प्लेट वर काळे अक्षरे</option3>
+        <answer>३. पिवळ्या रंग्याचा प्लेट वर काळे अक्षरे</answer>
+    </question>
+    <question id="163">
+        <text>वाहन चालविताना मोबईलचा वापर करण्यास ?</text>
+        <option1>१. कमी रहदारीच्या रस्त्यावर हरकत नाही</option1>
+        <option2>२. कमी वेगात काळजीपुर्विक वाहन चालविताना हरकत नाही</option2>
+        <option3>३. कायद्याने गुह्णा आहे</option3>
+        <answer>३. कायद्याने गुह्णा आहे</answer>
+    </question>
+    <question id="164">
+        <text>दिवे लावलेल्या रस्त्यावर रात्रीच्या वेळी वाहन चालविताना तुह्मी ?</text>
+        <option1>१. फक्त पार्किंग दिवे वापराल</option1>
+        <option2>२. नजीकचा प्रकाशझोत वापराल.</option2>
+        <option3>३. प्रखर प्रकाशझोत वापरलं</option3>
+        <answer>२. नजीकचा प्रकाशझोत वापराल.</answer>
+    </question>
+    <question id="165">
+        <text>येथे पार्किंगसाठी मनाई आहे ?</text>
+        <option1>१. एक दिशा मार्गावर</option1>
+        <option2>२. गल्लीत अरुंद रस्त्यावर</option2>
+        <option3>३. फुटपाथवर आणि ट्राफिक सिग्नलजवळ</option3>
+        <answer>३. फुटपाथवर आणि ट्राफिक सिग्नलजवळ</answer>
+    </question>
+    <question id="166">
+        <text>फाटक नसलेले रेल्वे गेट क्रोसिंग ओलांडताना ?</text>
+        <option1>१. वेगाने पलीकडे जाण्याचा प्रयन्त करावे</option1>
+        <option2>२. थांबा,रेल्वे येत नसल्याची खात्री करा आणि क्रोसिंग करा</option2>
+        <option3>३. रेल्वे येत नसल्याचे खात्री करा आणि ओलांडा</option3>
+        <answer>२. थांबा,रेल्वे येत नसल्याची खात्री करा आणि क्रोसिंग करा</answer>
+    </question>
+    <question id="167">
+        <text>रस्त्याच्या कडेला सलग पिवळ्या रंगाची एक पट्टी असल्यास ?</text>
+        <option1>१. पार्किंग करण्यास मनाई</option1>
+        <option2>२. पार्किंग करण्यास परवानगी</option2>
+        <option3>३. वाहन उभे करण्यास मनाई</option3>
+        <answer>३. वाहन उभे करण्यास मनाई</answer>
+    </question>
+    <question id="168">
+        <text>रस्त्याच्या कडेला सलग पिवळ्या रंगाच्या दोन पाट्या असल्यास ?</text>
+        <option1>१. पार्किंग करण्याची जागा</option1>
+        <option2>२. पार्किंग करण्यास किवा थांबविण्यास मनाई</option2>
+        <option3>३. ओव्हरटेक करण्यास मनाई</option3>
+        <answer>२. पार्किंग करण्यास किवा थांबविण्यास मनाई</answer>
+    </question>
+    <question id="169">
+        <text>घाटात वाहन चालवीत असताना कोणत्या वाहंनान अग्र्कमाने जाऊ दिले पाहजे ?</text>
+        <option1>१. उतरणाऱ्या वाह्नानान</option1>
+        <option2>२. चढणाऱ्या वाहंनान</option2>
+        <option3>३. जड वाहनांना</option3>
+        <answer>२. चढणाऱ्या वाहंनान</answer>
+    </question>
+    <question id="170">
+        <text>तीव्र उताराचा घाट उतरताना तुमचे वाहन ?</text>
+        <option1>१. वरच्या गीयर मध्ये असावे</option1>
+        <option2>२. गियर न्युटल ठेउन इंजिन बंद करावे</option2>
+        <option3>३. जेवद्या तीव्रतेच्या चढ चढण्यासाठी जो गियर वापरावा लागतो त्याच गियर मद्ये
+            असावेत
+        </option3>
+        <answer>३. जेवद्या तीव्रतेच्या चढ चढण्यासाठी जो गियर वापरावा लागतो त्याच गियर मद्ये असावेत
+        </answer>
+    </question>
+</questions_db>
